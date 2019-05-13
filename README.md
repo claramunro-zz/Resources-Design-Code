@@ -5,7 +5,7 @@
 
 ---
 
-**design things**
+**design things:**
 * _colors_: https://color.adobe.com/create
 * _funny hex codes_: http://bada55.io/
 * _image placeholder_: https://picsum.photos/
@@ -18,11 +18,11 @@
 * _loading spinner_: https://github.com/chenglou/react-spinner
 
 
-**design articles**
+**design articles:**
 * _cinamagraph portriats_: https://blog.flixel.com/8-inspiring-portrait-cinemagraph-creators/
 
 
-**other**
+**other:**
 * _api list_: https://github.com/toddmotto/public-apis/blob/master/README.md
 
 

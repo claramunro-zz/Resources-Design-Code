@@ -23,6 +23,6 @@
 
 
 **other**
-*_api list_: https://github.com/toddmotto/public-apis/blob/master/README.md
+* _api list_: https://github.com/toddmotto/public-apis/blob/master/README.md
 
 

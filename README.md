@@ -1,7 +1,7 @@
 # resources-design-code
 
 **Always adding more.**
-Over the last 8 months of coding / years of designing I've bookmarked manyy sites ... here they are:
+* Over the last 8 months of coding / years of designing I've bookmarked manyy sites ... here they are:
 
 ---
 

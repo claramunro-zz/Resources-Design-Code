@@ -23,6 +23,7 @@
 
 
 **css:**
+* _css diners_: https://flukeout.github.io/
 * _30 selectors_: https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
 
 **react:**
